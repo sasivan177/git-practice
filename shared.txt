@@ -1,1 +1,1 @@
-shared line: resolved version
+shared line: version A
