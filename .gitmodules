@@ -1,3 +1,6 @@
 [submodule "Git-GitHub-Task-67"]
 	path = Git-GitHub-Task-67
 	url = git@github-second:sasivan177/Git-GitHub-Task-67.git
+[submodule "Spoon-Knife"]
+	path = Spoon-Knife
+	url = git@github.com:sasivan177/Spoon-Knife.git
